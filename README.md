@@ -1,16 +1,24 @@
-## Hi there 👋
+# 👋 Hi, I'm **robitzu13**
 
-<!--
-**robitzu13/robitzu13** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 **Full‑stack developer** with a strong focus on building **Discord Bots**, **CLI Tools**, **Backend APIs**, and **Frontend Websites**. I care about clean architecture, solid performance, and code that actually solves problems.
 
-Here are some ideas to get you started:
+## 🧠 About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I design systems that are **practical**, **scalable**, and **easy to maintain**. Whether it’s automating workflows with a Discord bot, shipping a fast CLI utility, or building a complete web app from backend to UI — I get it done.
+
+## 🛠️ What I Build
+
+🤖 **Discord Bots** — moderation, automation, utilities, integrations
+🧰 **CLI Tools** — fast, minimal, no bloat
+🧪 **Backend / APIs** — REST services, auth, databases
+🌐 **Frontend Websites** — responsive, modern, clean UI
+
+## 🎯 Principles
+
+✅ Clean code over clever code
+⚡ Performance matters
+🧩 Simple solutions beat complex ones
+
+## 📫 Reach Me
+
+🔗 Discord: `@robitzu13`
